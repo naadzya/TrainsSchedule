@@ -1,0 +1,11 @@
+Minsk Vitebsk mon 11 30 tue 3 25
+Riga Tallinn fri 4 29 sun 14 32
+Vilnius Prague thu 01 31 fri 07 31
+Moskow Saint-Peterburg wed 19 40 thu 1 23
+Chicago Boston tue 13 27 wed 8 42
+Minsk Saint-Peterburg mon 20 39 tue 11 44
+Moskow Kiev fri 17 10 sat 06 07
+Minsk Krasnodar wed 7 15 fri 11 44
+Wien Berlin mon 10 15 tue 17 58
+Paris Amsterdam sun 19 23 sun 22 44
+Zurich Hamburg tue 21 45 wed 8 45
