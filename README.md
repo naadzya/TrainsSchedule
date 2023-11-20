@@ -1,5 +1,7 @@
 # Trains Schedule
 
+This is a small university project for tracking trains shedule on a virtual station. You can list all the routes, add, modify, and delete them using GUI.
+
 # How to run
 
 To run this program you need SFML library (version 2.5.1) to be installed on your computer:
