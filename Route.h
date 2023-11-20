@@ -16,8 +16,8 @@ public:
 
 	void setstations(string fromplace, string toplace)
 	{
-		strcpy_s(from, fromplace.c_str());
-		strcpy_s(to, toplace.c_str());
+		strcpy(from, fromplace.c_str());
+		strcpy(to, toplace.c_str());
 	}
 
 	void setday(std::string departure, std::string arrival)

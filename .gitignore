@@ -1,0 +1,5 @@
+Debug/
+routes.dat
+*.vcxproj
+*.vcxproj.*
+main
